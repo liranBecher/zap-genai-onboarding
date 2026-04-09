@@ -1,0 +1,26 @@
+[
+  {
+    "source_name": "about.html",
+    "content": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>אודות | יוסי מיזוג בקריות</title>\n</head>\n<body>\n  <main>\n    <h1>אודות יוסי מיזוג בקריות</h1>\n    <p>יוסי כהן, טכנאי מזגנים מוסמך, מספק שירות מקצועי ללקוחות פרטיים ועסקיים משנת 2012.</p>\n    <p>העסק מתמחה בפתרונות מיזוג לדירות, בתים פרטיים, משרדים, חנויות ועסקים קטנים.</p>\n\n    <h2>למה לקוחות בוחרים בנו</h2>\n    <ul>\n      <li>אבחון מקצועי ושקיפות מלאה מול הלקוח</li>\n      <li>זמינות גבוהה והגעה מהירה באזור הקריות</li>\n      <li>ניסיון בטיפול במערכות מיזוג מתקדמות</li>\n      <li>שירות אישי ואחריות לאורך זמן</li>\n    </ul>\n\n    <p>מטרתנו היא לספק פתרון מיזוג מדויק לפי סוג הנכס, התקציב והצורך התפעולי.</p>\n  </main>\n</body>\n</html>\n"
+  },
+  {
+    "source_name": "contact.html",
+    "content": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>צור קשר | יוסי מיזוג בקריות</title>\n</head>\n<body>\n  <main>\n    <h1>צור קשר</h1>\n    <p>טלפון ראשי: 052-123-4567</p>\n    <p>טלפון נוסף: 04-888-1234</p>\n    <p>וואטסאפ: 052-123-4567</p>\n    <p>אימייל שירות: bliran2@gmail.com</p>\n\n    <h2>כתובת</h2>\n    <p>רחוב העצמאות 18, קרית ביאליק</p>\n\n    <h2>פרטי פעילות</h2>\n    <p>אזור שירות: הקריות, חיפה, עכו, נהריה והיישובים הסמוכים</p>\n    <p>זמינות לקריאות דחופות בהתאם לעומס יומי.</p>\n  </main>\n</body>\n</html>\n"
+  },
+  {
+    "source_name": "dapei-zahav-minisite.txt",
+    "content": "יוסי מיזוג בקריות | מיניסייט דפי זהב\n\nקטגוריה: טכנאי מזגנים\nתת-קטגוריות: תיקון מזגנים, התקנת מזגנים, ניקוי מזגנים, מילוי גז\n\nאודות:\nשירות מקצועי למערכות מיזוג אוויר ללקוחות פרטיים ועסקיים באזור הקריות והצפון.\n\nפרטי קשר:\nטלפון: 052-123-4567\nאימייל: bliran2@gmail.com\nכתובת: רחוב העצמאות 18, קרית ביאליק\n\nתחומי שירות: \nטכנאי מזגנים בקריות, תיקון מזגן בחיפה, התקנת מזגן בעכו, שירות מיזוג בצפון\n\nערך ללקוח:\nזמינות גבוהה, שירות אמין, התאמת פתרון לפי סוג הנכס והתקציב.\n"
+  },
+  {
+    "source_name": "index.html",
+    "content": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>יוסי מיזוג בקריות | דף בית</title>\n</head>\n<body>\n  <header>\n    <h1>יוסי מיזוג בקריות</h1>\n    <p>טכנאי מזגנים מוסמך באזור הקריות, חיפה, עכו והצפון.</p>\n  </header>\n\n  <nav>\n    <a href=\"/index.html\">דף בית</a>\n    <a href=\"/about.html\">אודות</a>\n    <a href=\"/services.html\">שירותים</a>\n    <a href=\"/service-areas.html\">אזורי שירות</a>\n    <a href=\"/contact.html\">צור קשר</a>\n  </nav>\n\n  <main>\n    <section>\n      <h2>פתרונות מיזוג לבית ולעסק</h2>\n      <p>ניסיון של מעל 12 שנים בתיקון, התקנה ותחזוקת מערכות מיזוג אוויר.</p>\n      <ul>\n        <li>תיקון מזגנים מכל הסוגים</li>\n        <li>התקנת מזגנים חדשים</li>\n        <li>שירות למערכות מיני מרכזי</li>\n        <li>ניקוי ותחזוקה עונתית</li>\n      </ul>\n    </section>\n\n    <section>\n      <h2>יצירת קשר מהירה</h2>\n      <p>טלפון: 052-123-4567</p>\n      <p>דוא\"ל: info@yossi-ac.co.il</p>\n    </section>\n  </main>\n</body>\n</html>\n"
+  },
+  {
+    "source_name": "service-areas.html",
+    "content": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>אזורי שירות | יוסי מיזוג בקריות</title>\n</head>\n<body>\n  <main>\n    <h1>אזורי שירות</h1>\n    <p>אנחנו מספקים שירותי מיזוג אוויר באזורים הבאים:</p>\n    <ul>\n      <li>קרית ביאליק</li>\n      <li>קרית מוצקין</li>\n      <li>קרית ים</li>\n      <li>קרית אתא</li>\n      <li>חיפה</li>\n      <li>עכו</li>\n      <li>נהריה</li>\n    </ul>\n\n    <h2>שירות לעסקים</h2>\n    <ul>\n      <li>אזור תעשייה קרית ביאליק</li>\n      <li>אזור תעשייה עכו</li>\n      <li>מרכזי מסחר בחיפה והקריות</li>\n    </ul>\n\n    <p>לשירות מחוץ לאזור הקריות ניתן ליצור קשר לבדיקת זמינות.</p>\n  </main>\n</body>\n</html>\n"
+  },
+  {
+    "source_name": "services.html",
+    "content": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>שירותים | יוסי מיזוג בקריות</title>\n</head>\n<body>\n  <main>\n    <h1>השירותים שלנו</h1>\n\n    <h2>קטגוריות שירות עיקריות</h2>\n    <ul>\n      <li>תיקון מזגנים</li>\n      <li>התקנת מזגנים</li>\n      <li>תחזוקת מזגנים</li>\n      <li>שירות חירום למיזוג אוויר</li>\n    </ul>\n\n    <h2>פירוט שירותים</h2>\n    <ol>\n      <li>תיקון מזגנים עיליים, מיני מרכזי ומערכות אינוורטר</li>\n      <li>התקנת מזגנים חדשים כולל פירוק ופינוי מערכת ישנה</li>\n      <li>מילוי גז, איתור דליפות וטיפול בקירור חלש</li>\n      <li>ניקוי עמוק וחיטוי מזגנים לפני עונת הקיץ</li>\n      <li>תחזוקה מונעת לעסקים, משרדים וחנויות</li>\n    </ol>\n\n    <p>שעות פעילות: ימים א'-ה' 08:00-18:00, יום ו' 08:00-13:00</p>\n  </main>\n</body>\n</html>\n"
+  }
+]
