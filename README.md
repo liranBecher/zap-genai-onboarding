@@ -45,15 +45,7 @@ The idea is to give the LLM a precise, noise-free task to get better results and
 
 ## Pipeline
 
-Input: Digital Assets
-    ↓
-Raw Text Extraction
-    ↓
-Initial Structured Business Profile
-    ↓
-LLM Enrichment
-    ↓
-Output: Customer Card / Internal Onboarding Script / Customer Onboarding Message / CRM Payload
+Input: Digital Assets > Raw Text Extraction > Initial Structured Business Profile > LLM Enrichment > Output: Customer Card / Internal Onboarding Script / Customer Onboarding Message / CRM Payload
 
 ---
 

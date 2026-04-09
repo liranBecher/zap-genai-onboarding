@@ -80,9 +80,17 @@ def generate_internal_onboarding_script(profile: BusinessProfile) -> str:
     reputation_section = ""
     if external:
         positive_themes = ", ".join(external.get("top_positive_themes", [])) or "אין"
+        rating = external.get("rating", "לא זמין")
+        if (rating <= 3.0):
+            reputation_section = (
+                "## איתותי מוניטין חיצוניים\n"
+                f"- הדירוג בגוגל הוא **{rating}**, עם ביקורות שמדגישות נושאים כמו: **{positive_themes}**\n"
+                "- יש לאמת מול הלקוח האם ישנם אתגרים או נקודות כאב שחשוב לטפל בהם\n"
+                "- לאחר אימות, ניתן לשלב את הנושאים הללו במסרים באתר ובמיני-סייט כדי להדגיש שיפורים ומחויבות לשירות איכותי\n"
+            )
         reputation_section = (
             "## הזדמנויות מסרים מבוססות מוניטין\n"
-            f"- ביקורות ציבוריות עשויות להעיד על חוזקות כמו: **{positive_themes}**\n"
+            f"- ביקורות ציבוריות עשויות להעיד על חוזקות כמו: **{positive_themes} ו דירוג של **{rating}**\n"
             "- יש לאמת מול הלקוח שחוזקות אלה אכן משקפות את העסק\n"
             "- לאחר אימות, ניתן לשלב את הנושאים הללו במסרים באתר ובמיני-סייט\n"
         )
