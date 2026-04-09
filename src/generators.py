@@ -90,7 +90,7 @@ def generate_internal_onboarding_script(profile: BusinessProfile) -> str:
             )
         reputation_section = (
             "## הזדמנויות מסרים מבוססות מוניטין\n"
-            f"- ביקורות ציבוריות עשויות להעיד על חוזקות כמו: **{positive_themes} ו דירוג של **{rating}**\n"
+            f"- ביקורות ציבוריות עשויות להעיד על חוזקות כמו: **{positive_themes} ודירוג של **{rating}**\n"
             "- יש לאמת מול הלקוח שחוזקות אלה אכן משקפות את העסק\n"
             "- לאחר אימות, ניתן לשלב את הנושאים הללו במסרים באתר ובמיני-סייט\n"
         )
